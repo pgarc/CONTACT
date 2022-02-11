@@ -1,0 +1,42 @@
+header{
+  width: 75%
+  margin:35px auto;
+}
+body{
+  padding: 18px;
+  font-family: arial;
+  background: #2b6086;
+  color: white;
+}
+h1{
+
+  text-align: center;
+font-size: 50px;
+letter-spacing: 20px;
+      border:50px dotted rgba(255, 255, 255, 0.21);
+      border-radius:20px;
+      font-style:
+}
+
+h2{
+
+  text-align: center;
+  font-size: 45px;
+  letter-spacing: 10px;
+  text-decoration: underline;
+}
+.logow{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+.like{
+  text-align: justify;
+}
+
+p{
+  font-size: 25px;
+  text-align: center;
+  color: #b9bdc2
+
+}
